@@ -37,6 +37,13 @@ This project analyses 100,558 NHS mental health referrals across five North Lond
 * KPI Reporting
 * Healthcare Analytics
 * Data Storytelling
+## Dashboard Preview
+
+![Dashboard Overview](dashboard-overview.png)
+
+![Referral Analysis](borough-analysis.png)
+
+![Urgency Distribution](urgency-distribution.png)
 
 ## Author
 
